@@ -1,0 +1,2 @@
+# AngularBlankWorkspace
+Angular blank workspace
